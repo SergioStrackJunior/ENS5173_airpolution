@@ -1,5 +1,5 @@
 Processos,PM,Hg,Ni,Pb,SO2,HCl
-Nao controlado,12.6,0.0028,0.00393,0.107,1.73,3.2
-Reator,0.105,0.0028,0.000056,0.0015,0,0
-Sistema de Limpeza do gas,0.0295,0.00198,0.00161,0.00145,0,0
-Reuperacao de energia,0.0352,0.00163,0.000135,0.000458,0,0
+Reator,12.6,0.0028,0.00393,0.107,1.73,3.2
+Sistema de Limpeza do gas,0.105,0.0028,0.000056,0.0015,0,0
+Reuperacao de energia,0.0295,0.00198,0.00161,0.00145,0,0
+Nao controlado,0.0352,0.00163,0.000135,0.000458,0,0
